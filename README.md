@@ -9,4 +9,4 @@ For this project, I decided to apply some of the knowledge I’ve gained so far 
 I also took the opportunity to practice generating possible charts with the information from this table, in order to highlight the most relevant data within it.
 
 
-Translated with DeepL.com (free version)
+You can see more by downloading the main project!
