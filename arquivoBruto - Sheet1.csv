@@ -1,0 +1,101 @@
+ID do funcionário,Departamento,Região,Gênero,Idade,Cargo,Salário,Avaliação de desempenho,Anos de serviço,Horas de treinamento
+EMP1000,Sales,Scotland,Male,24,Sales Specialist,50.633,5,4,16
+EMP1001,IT,Midlands,Male,46,HR Specialist,36.738,1,6,22
+EMP1002,Sales,Midlands,Non-Binary,36,Finance Specialist,46.36,2,17,25
+EMP1003,Marketing,South West,Male,31,Marketing Specialist,48.515,1,7,27
+EMP1004,IT,London,Non-Binary,59,Marketing Specialist,32.574,5,10,5
+EMP1005,IT,London,Male,53,Finance Specialist,50.83,2,3,20
+EMP1006,Sales,Midlands,Female,37,Marketing Specialist,52.386,3,9,49
+EMP1007,HR,Scotland,Female,30,HR Specialist,32.9,3,12,33
+EMP1008,Finance,Scotland,Female,27,Sales Specialist,44.579,4,15,23
+EMP1009,Finance,North East,Female,60,Marketing Specialist,30.609,4,3,42
+EMP1010,IT,London,Male,31,HR Specialist,36.866,3,19,12
+EMP1011,HR,South West,Female,52,Marketing Specialist,58.598,3,14,32
+EMP1012,Marketing,London,Male,53,Finance Specialist,49.861,5,4,38
+EMP1013,HR,North West,Female,28,Finance Specialist,21.113,4,7,25
+EMP1014,IT,South West,Non-Binary,58,Marketing Specialist,43.301,4,4,44
+EMP1015,Sales,Midlands,Female,30,Finance Specialist,36.253,3,15,21
+EMP1016,HR,North East,Non-Binary,43,IT Specialist,48.212,2,17,44
+EMP1017,Marketing,North East,Non-Binary,51,HR Specialist,47.58,5,15,43
+EMP1018,Finance,South West,Male,36,IT Specialist,30.65,1,15,8
+EMP1019,IT,North West,Male,54,Marketing Specialist,30.739,5,7,27
+EMP1020,IT,Midlands,Male,55,IT Specialist,48.295,2,7,12
+EMP1021,HR,South West,Non-Binary,29,IT Specialist,33.209,1,20,32
+EMP1022,Finance,London,Non-Binary,35,Marketing Specialist,45.004,5,18,19
+EMP1023,HR,London,Male,47,Finance Specialist,46.251,5,10,42
+EMP1024,IT,Midlands,Non-Binary,36,Marketing Specialist,29.157,2,20,10
+EMP1025,Finance,London,Non-Binary,55,Marketing Specialist,37.51,4,8,18
+EMP1026,IT,Scotland,Female,23,IT Specialist,34.282,5,17,21
+EMP1027,IT,North West,Non-Binary,24,HR Specialist,27.711,5,20,42
+EMP1028,HR,Scotland,Male,47,IT Specialist,46.324,4,10,47
+EMP1029,HR,South East,Male,39,HR Specialist,44.849,2,11,19
+EMP1030,HR,Scotland,Non-Binary,33,HR Specialist,36.189,3,17,11
+EMP1031,Finance,Scotland,Non-Binary,28,HR Specialist,20.784,3,15,37
+EMP1032,Sales,London,Non-Binary,43,Marketing Specialist,45.931,2,6,29
+EMP1033,IT,Scotland,Male,34,Sales Specialist,34.29,5,5,15
+EMP1034,Finance,London,Male,35,IT Specialist,49.6,5,10,22
+EMP1035,IT,South East,Male,25,Finance Specialist,32.231,2,3,28
+EMP1036,Sales,Midlands,Non-Binary,38,HR Specialist,25.566,5,9,31
+EMP1037,HR,Midlands,Non-Binary,39,Finance Specialist,53.999,1,19,10
+EMP1038,Marketing,London,Female,41,HR Specialist,47.117,4,1,21
+EMP1039,HR,South East,Male,33,Marketing Specialist,25.101,1,1,36
+EMP1040,HR,Scotland,Non-Binary,59,Marketing Specialist,53.218,2,16,48
+EMP1041,Sales,North East,Non-Binary,29,Sales Specialist,21.943,1,4,36
+EMP1042,IT,North East,Male,43,Sales Specialist,23.482,4,16,43
+EMP1043,HR,London,Non-Binary,49,HR Specialist,53.69,2,14,6
+EMP1044,Marketing,North East,Female,40,Marketing Specialist,36.141,2,13,24
+EMP1045,Finance,Midlands,Male,47,Finance Specialist,49.867,1,18,24
+EMP1046,IT,North East,Female,57,Finance Specialist,47.115,3,18,12
+EMP1047,IT,Scotland,Non-Binary,45,Finance Specialist,30.108,4,10,9
+EMP1048,Finance,North West,Female,60,HR Specialist,57.325,5,14,16
+EMP1049,IT,London,Male,28,Marketing Specialist,21.4,4,5,36
+EMP1050,IT,Midlands,Male,51,HR Specialist,52.655,5,10,37
+EMP1051,Sales,South West,Female,50,Sales Specialist,40.136,5,20,47
+EMP1052,IT,North West,Female,36,Marketing Specialist,52.713,3,18,17
+EMP1053,Finance,Scotland,Female,52,Marketing Specialist,27.464,4,8,17
+EMP1054,Sales,South West,Female,32,Sales Specialist,57.375,4,13,41
+EMP1055,IT,North West,Female,34,IT Specialist,33.412,3,9,20
+EMP1056,Marketing,North West,Non-Binary,40,HR Specialist,43.006,4,10,49
+EMP1057,IT,Scotland,Non-Binary,23,Sales Specialist,32.291,4,14,50
+EMP1058,Sales,North West,Non-Binary,42,HR Specialist,42.845,3,12,44
+EMP1059,Sales,Scotland,Female,48,IT Specialist,36.112,4,1,6
+EMP1060,Sales,London,Non-Binary,28,IT Specialist,48.8,1,1,34
+EMP1061,Finance,London,Male,54,IT Specialist,53.696,2,11,39
+EMP1062,IT,South West,Female,37,Marketing Specialist,48.297,2,8,28
+EMP1063,IT,North East,Female,56,Marketing Specialist,34.958,1,4,19
+EMP1064,IT,South West,Male,30,Sales Specialist,59.239,4,1,46
+EMP1065,IT,Scotland,Non-Binary,53,Sales Specialist,52.888,1,10,32
+EMP1066,IT,South West,Male,58,Marketing Specialist,59.475,5,7,32
+EMP1067,IT,North East,Male,59,Marketing Specialist,53.5,3,12,49
+EMP1068,HR,South West,Non-Binary,39,Finance Specialist,57.878,3,9,21
+EMP1069,IT,South East,Non-Binary,54,IT Specialist,58.45,5,2,39
+EMP1070,Finance,South East,Male,46,Finance Specialist,40.724,1,18,49
+EMP1071,HR,Scotland,Male,57,Sales Specialist,59.477,2,3,35
+EMP1072,Marketing,North West,Male,23,HR Specialist,41.901,3,15,8
+EMP1073,Finance,Scotland,Male,43,Finance Specialist,21.511,1,12,25
+EMP1074,HR,Scotland,Female,58,IT Specialist,23.701,3,13,30
+EMP1075,Marketing,North East,Male,34,Marketing Specialist,22.509,3,17,35
+EMP1076,Finance,North West,Male,37,Finance Specialist,58.668,5,4,43
+EMP1077,IT,North West,Non-Binary,39,Finance Specialist,32.365,2,8,13
+EMP1078,Marketing,London,Non-Binary,51,Finance Specialist,45.856,5,19,5
+EMP1079,IT,North West,Male,32,IT Specialist,55.657,5,12,13
+EMP1080,Marketing,South West,Male,29,Marketing Specialist,34.045,1,5,23
+EMP1081,Sales,London,Male,36,IT Specialist,35.658,1,20,35
+EMP1082,Marketing,London,Female,44,HR Specialist,40.865,4,9,27
+EMP1083,HR,North West,Female,33,HR Specialist,46.049,3,15,14
+EMP1084,IT,Midlands,Male,32,HR Specialist,43.82,2,18,28
+EMP1085,Finance,North East,Male,43,HR Specialist,21.908,5,17,10
+EMP1086,IT,Scotland,Non-Binary,29,Finance Specialist,43.991,4,7,12
+EMP1087,IT,Midlands,Female,27,HR Specialist,35.613,1,11,9
+EMP1088,Marketing,North West,Non-Binary,32,Sales Specialist,55.869,5,12,39
+EMP1089,Marketing,London,Female,29,HR Specialist,59.158,5,13,27
+EMP1090,Sales,Midlands,Male,52,HR Specialist,30.631,4,17,41
+EMP1091,Finance,North East,Female,34,HR Specialist,57.597,2,15,42
+EMP1092,HR,London,Male,49,IT Specialist,59.97,2,20,47
+EMP1093,IT,North West,Non-Binary,22,HR Specialist,41.874,3,9,20
+EMP1094,IT,London,Female,32,Sales Specialist,23.437,2,15,30
+EMP1095,Sales,Midlands,Non-Binary,50,Finance Specialist,42.55,1,2,9
+EMP1096,Sales,South West,Female,22,Sales Specialist,27.585,5,9,11
+EMP1097,Sales,North East,Female,58,Marketing Specialist,42.155,5,1,26
+EMP1098,Marketing,South East,Female,38,HR Specialist,59.416,1,15,49
+EMP1099,Marketing,South East,Female,32,Sales Specialist,45.897,3,15,8
